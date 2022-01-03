@@ -120,3 +120,15 @@
 .fxi-sun:before {
   content: "\51";
 }
+.fxi-eye:before {
+  content: "\52";
+}
+.fxi-gmail:before {
+  content: "\53";
+}
+.fxi-marker:before {
+  content: "\54";
+}
+.fxi-marker-alt:before {
+  content: "\55";
+}

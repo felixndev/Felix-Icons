@@ -13,6 +13,10 @@
 		el.innerHTML = '<span style="font-family: \'felixfont\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'fxi-eye': '&#x52;',
+		'fxi-gmail': '&#x53;',
+		'fxi-marker': '&#x54;',
+		'fxi-marker-alt': '&#x55;',
 		'fxi-chevron-down': '&#x20;',
 		'fxi-chevron-left': '&#x21;',
 		'fxi-chevron-right': '&#x22;',
