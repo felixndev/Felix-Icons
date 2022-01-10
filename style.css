@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'felixfont';
-  src:  url('fonts/felixfont.eot?drgnn7');
-  src:  url('fonts/felixfont.eot?drgnn7#iefix') format('embedded-opentype'),
-    url('fonts/felixfont.ttf?drgnn7') format('truetype'),
-    url('fonts/felixfont.woff?drgnn7') format('woff'),
-    url('fonts/felixfont.svg?drgnn7#felixfont') format('svg');
+  src:  url('fonts/felixfont.eot?shlieu');
+  src:  url('fonts/felixfont.eot?shlieu#iefix') format('embedded-opentype'),
+    url('fonts/felixfont.ttf?shlieu') format('truetype'),
+    url('fonts/felixfont.woff?shlieu') format('woff'),
+    url('fonts/felixfont.svg?shlieu#felixfont') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -172,6 +172,9 @@
 .fxi-play:before {
   content: "\68";
 }
+.fxi-react:before {
+  content: "\89";
+}
 .fxi-sass:before {
   content: "\69";
 }
@@ -231,7 +234,4 @@
 }
 .fxi-youtube:before {
   content: "\88";
-}
-.fxi-react:before {
-  content: "\89";
 }

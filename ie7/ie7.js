@@ -82,6 +82,7 @@
 		'fxi-visa': '&#x86;',
 		'fxi-xbox': '&#x87;',
 		'fxi-youtube': '&#x88;',
+		'fxi-react': '&#x89;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),
