@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'felixfont';
-  src:  url('fonts/felixfont.eot?shlieu');
-  src:  url('fonts/felixfont.eot?shlieu#iefix') format('embedded-opentype'),
-    url('fonts/felixfont.ttf?shlieu') format('truetype'),
-    url('fonts/felixfont.woff?shlieu') format('woff'),
-    url('fonts/felixfont.svg?shlieu#felixfont') format('svg');
+  src:  url('fonts/felixfont.eot?3dfmme');
+  src:  url('fonts/felixfont.eot?3dfmme#iefix') format('embedded-opentype'),
+    url('fonts/felixfont.ttf?3dfmme') format('truetype'),
+    url('fonts/felixfont.woff?3dfmme') format('woff'),
+    url('fonts/felixfont.svg?3dfmme#felixfont') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,14 +25,26 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fxi-adidas:before {
+  content: "\90";
+}
+.fxi-amex:before {
+  content: "\91";
+}
 .fxi-apple:before {
   content: "\20";
 }
 .fxi-backward:before {
   content: "\21";
 }
+.fxi-barcode:before {
+  content: "\92";
+}
 .fxi-block:before {
   content: "\22";
+}
+.fxi-box:before {
+  content: "\93";
 }
 .fxi-check:before {
   content: "\23";
@@ -49,6 +61,9 @@
 .fxi-chevron-up:before {
   content: "\27";
 }
+.fxi-cielo:before {
+  content: "\94";
+}
 .fxi-clock:before {
   content: "\28";
 }
@@ -57,6 +72,12 @@
 }
 .fxi-cog:before {
   content: "\30";
+}
+.fxi-copyright:before {
+  content: "\95";
+}
+.fxi-copyright-alt:before {
+  content: "\96";
 }
 .fxi-credit-card:before {
   content: "\31";
@@ -94,6 +115,9 @@
 .fxi-facebook-f:before {
   content: "\42";
 }
+.fxi-fila:before {
+  content: "\97";
+}
 .fxi-forward:before {
   content: "\43";
 }
@@ -108,6 +132,12 @@
 }
 .fxi-gmail:before {
   content: "\47";
+}
+.fxi-heart:before {
+  content: "\98";
+}
+.fxi-hipercard:before {
+  content: "\99";
 }
 .fxi-html:before {
   content: "\48";
@@ -127,6 +157,9 @@
 .fxi-js:before {
   content: "\53";
 }
+.fxi-lacoste:before {
+  content: "\100";
+}
 .fxi-lightbulb:before {
   content: "\54";
 }
@@ -142,11 +175,17 @@
 .fxi-linkedin-in:before {
   content: "\58";
 }
+.fxi-magnify:before {
+  content: "\101";
+}
 .fxi-marker:before {
   content: "\59";
 }
 .fxi-marker-alt:before {
   content: "\60";
+}
+.fxi-melissa:before {
+  content: "\102";
 }
 .fxi-menu:before {
   content: "\61";
@@ -163,20 +202,59 @@
 .fxi-moon-alt:before {
   content: "\65";
 }
+.fxi-nike-logo:before {
+  content: "\103";
+}
 .fxi-nodejs:before {
   content: "\66";
+}
+.fxi-oakley:before {
+  content: "\104";
 }
 .fxi-pause:before {
   content: "\67";
 }
+.fxi-paypal:before {
+  content: "\105";
+}
+.fxi-paypal-p:before {
+  content: "\106";
+}
+.fxi-pinterest:before {
+  content: "\107";
+}
+.fxi-pinterest-alt:before {
+  content: "\108";
+}
 .fxi-play:before {
   content: "\68";
+}
+.fxi-puma:before {
+  content: "\109";
+}
+.fxi-puma-logo:before {
+  content: "\110";
 }
 .fxi-react:before {
   content: "\89";
 }
 .fxi-sass:before {
   content: "\69";
+}
+.fxi-shield:before {
+  content: "\111";
+}
+.fxi-shield-alt:before {
+  content: "\112";
+}
+.fxi-shield-light:before {
+  content: "\113";
+}
+.fxi-shopping-bag:before {
+  content: "\114";
+}
+.fxi-shopping-bag-alt:before {
+  content: "\115";
 }
 .fxi-sort-down:before {
   content: "\70";
@@ -214,6 +292,9 @@
 .fxi-triple-chevron-up:before {
   content: "\81";
 }
+.fxi-truck:before {
+  content: "\116";
+}
 .fxi-twitter:before {
   content: "\82";
 }
@@ -226,8 +307,14 @@
 .fxi-user-check:before {
   content: "\85";
 }
+.fxi-user-shield:before {
+  content: "\117";
+}
 .fxi-visa:before {
   content: "\86";
+}
+.fxi-vizzano:before {
+  content: "\118";
 }
 .fxi-xbox:before {
   content: "\87";

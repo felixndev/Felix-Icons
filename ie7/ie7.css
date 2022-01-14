@@ -1,11 +1,23 @@
+.fxi-adidas {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x90;');
+}
+.fxi-amex {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x91;');
+}
 .fxi-apple {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x20;');
 }
 .fxi-backward {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x21;');
 }
+.fxi-barcode {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x92;');
+}
 .fxi-block {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x22;');
+}
+.fxi-box {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x93;');
 }
 .fxi-check {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x23;');
@@ -22,6 +34,9 @@
 .fxi-chevron-up {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x27;');
 }
+.fxi-cielo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x94;');
+}
 .fxi-clock {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x28;');
 }
@@ -30,6 +45,12 @@
 }
 .fxi-cog {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x30;');
+}
+.fxi-copyright {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x95;');
+}
+.fxi-copyright-alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x96;');
 }
 .fxi-credit-card {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x31;');
@@ -67,6 +88,9 @@
 .fxi-facebook-f {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x42;');
 }
+.fxi-fila {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x97;');
+}
 .fxi-forward {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x43;');
 }
@@ -81,6 +105,12 @@
 }
 .fxi-gmail {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x47;');
+}
+.fxi-heart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x98;');
+}
+.fxi-hipercard {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x99;');
 }
 .fxi-html {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x48;');
@@ -100,6 +130,9 @@
 .fxi-js {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x53;');
 }
+.fxi-lacoste {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x100;');
+}
 .fxi-lightbulb {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x54;');
 }
@@ -115,11 +148,17 @@
 .fxi-linkedin-in {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x58;');
 }
+.fxi-magnify {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x101;');
+}
 .fxi-marker {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x59;');
 }
 .fxi-marker-alt {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x60;');
+}
+.fxi-melissa {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x102;');
 }
 .fxi-menu {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x61;');
@@ -136,17 +175,59 @@
 .fxi-moon-alt {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x65;');
 }
+.fxi-nike-logo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x103;');
+}
 .fxi-nodejs {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x66;');
+}
+.fxi-oakley {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x104;');
 }
 .fxi-pause {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x67;');
 }
+.fxi-paypal {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x105;');
+}
+.fxi-paypal-p {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x106;');
+}
+.fxi-pinterest {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x107;');
+}
+.fxi-pinterest-alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x108;');
+}
 .fxi-play {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x68;');
 }
+.fxi-puma {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x109;');
+}
+.fxi-puma-logo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x110;');
+}
+.fxi-react {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x89;');
+}
 .fxi-sass {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x69;');
+}
+.fxi-shield {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x111;');
+}
+.fxi-shield-alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x112;');
+}
+.fxi-shield-light {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x113;');
+}
+.fxi-shopping-bag {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x114;');
+}
+.fxi-shopping-bag-alt {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x115;');
 }
 .fxi-sort-down {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x70;');
@@ -184,6 +265,9 @@
 .fxi-triple-chevron-up {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x81;');
 }
+.fxi-truck {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x116;');
+}
 .fxi-twitter {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x82;');
 }
@@ -196,16 +280,19 @@
 .fxi-user-check {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x85;');
 }
+.fxi-user-shield {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x117;');
+}
 .fxi-visa {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x86;');
+}
+.fxi-vizzano {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x118;');
 }
 .fxi-xbox {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x87;');
 }
 .fxi-youtube {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x88;');
-}
-.fxi-react {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x89;');
 }
 
