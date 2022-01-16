@@ -1,6 +1,9 @@
 .fxi-adidas {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x90;');
 }
+.fxi-american-express {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x119;');
+}
 .fxi-amex {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x91;');
 }
@@ -18,6 +21,9 @@
 }
 .fxi-box {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x93;');
+}
+.fxi-chat-balloon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x120;');
 }
 .fxi-check {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x23;');
@@ -156,6 +162,9 @@
 }
 .fxi-marker-alt {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x60;');
+}
+.fxi-mastercard {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x121;');
 }
 .fxi-melissa {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x102;');

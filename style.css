@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'felixfont';
-  src:  url('fonts/felixfont.eot?3dfmme');
-  src:  url('fonts/felixfont.eot?3dfmme#iefix') format('embedded-opentype'),
-    url('fonts/felixfont.ttf?3dfmme') format('truetype'),
-    url('fonts/felixfont.woff?3dfmme') format('woff'),
-    url('fonts/felixfont.svg?3dfmme#felixfont') format('svg');
+  src:  url('fonts/felixfont.eot?reibcw');
+  src:  url('fonts/felixfont.eot?reibcw#iefix') format('embedded-opentype'),
+    url('fonts/felixfont.ttf?reibcw') format('truetype'),
+    url('fonts/felixfont.woff?reibcw') format('woff'),
+    url('fonts/felixfont.svg?reibcw#felixfont') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -28,6 +28,9 @@
 .fxi-adidas:before {
   content: "\90";
 }
+.fxi-american-express:before {
+  content: "\119";
+}
 .fxi-amex:before {
   content: "\91";
 }
@@ -45,6 +48,9 @@
 }
 .fxi-box:before {
   content: "\93";
+}
+.fxi-chat-balloon:before {
+  content: "\120";
 }
 .fxi-check:before {
   content: "\23";
@@ -183,6 +189,9 @@
 }
 .fxi-marker-alt:before {
   content: "\60";
+}
+.fxi-mastercard:before {
+  content: "\121";
 }
 .fxi-melissa:before {
   content: "\102";

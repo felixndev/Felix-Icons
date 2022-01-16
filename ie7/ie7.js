@@ -14,12 +14,14 @@
 	}
 	var icons = {
 		'fxi-adidas': '&#x90;',
+		'fxi-american-express': '&#x119;',
 		'fxi-amex': '&#x91;',
 		'fxi-apple': '&#x20;',
 		'fxi-backward': '&#x21;',
 		'fxi-barcode': '&#x92;',
 		'fxi-block': '&#x22;',
 		'fxi-box': '&#x93;',
+		'fxi-chat-balloon': '&#x120;',
 		'fxi-check': '&#x23;',
 		'fxi-chevron-down': '&#x24;',
 		'fxi-chevron-left': '&#x25;',
@@ -66,6 +68,7 @@
 		'fxi-magnify': '&#x101;',
 		'fxi-marker': '&#x59;',
 		'fxi-marker-alt': '&#x60;',
+		'fxi-mastercard': '&#x121;',
 		'fxi-melissa': '&#x102;',
 		'fxi-menu': '&#x61;',
 		'fxi-mobile': '&#x62;',
